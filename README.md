@@ -1,3 +1,3 @@
 # El Dojo Dodge de Scesilia
-## Lista de caracteristicas
+## Lista De caracteristicas
 * sala para la meditacion y llegar a la iluminacion como buda
