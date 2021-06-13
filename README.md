@@ -1,3 +1,3 @@
 # El Dojo Dodge de Scesilia
-## Lista De Caracteristicas
-* sala para artes marciales antiguas ninjas
+## Lista De caracteristicas
+* sala para la meditacion y llegar a la iluminacion como buda
